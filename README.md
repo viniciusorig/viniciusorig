@@ -6,7 +6,7 @@ aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3Â
 </p>
 <div>
 
-<img src="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-anime-sad-boy-2.gif" width="480px"/>
+<img src="https://gifs.eco.br/wp-content/uploads/2021/09/gifs-de-anime-sad-boy-2.gif" width="350px"/>
 
 </div>
 
