@@ -1,10 +1,9 @@
 <h1>Ola Bem-Vindo ao meu covil</h1>
 
 <br></br>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
 <p>
 aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3ª Turma de Engenharia de Computação do Instututo Federal de Ciencia e Tecnologia de Mato Grosso do Sul campi Tres Lagoaas
