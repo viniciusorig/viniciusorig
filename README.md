@@ -1,7 +1,5 @@
 <h1>Ola Bem-Vindo ao meu covil</h1>
 
-<br></br>
-
 <body>
   <div>
     <p>
