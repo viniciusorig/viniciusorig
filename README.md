@@ -3,10 +3,11 @@
 <br></br>
 
 <body>
-  <p>
-  aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3ª Turma de Engenharia de Computação do Instututo Federal de Ciencia e      Tecnologia de Mato Grosso do Sul campi Tres Lagoas, 
-  </p>
-
+  <div>
+    <p>
+    aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3ª Turma de Engenharia de Computação do Instututo Federal de Ciencia e      Tecnologia de Mato Grosso do Sul campi Tres Lagoas, instagram @vini.barbosa.ribeiro.
+    </p>
+  </div>
 </body>
 
 <div>
