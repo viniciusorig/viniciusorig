@@ -3,10 +3,15 @@
 <body>
   <div>
     <p>
-    aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3ª Turma de Engenharia de Computação do Instututo Federal de Ciencia e      Tecnologia de Mato Grosso do Sul campi Tres Lagoas, instagram @vini.barbosa.ribeiro.
+    Aqui onde trago todas as minhas experiencias e aprendizados, sou estudante da 3ª Turma de Engenharia de Computação do Instututo Federal de Ciencia e      Tecnologia de Mato Grosso do Sul campi Tres Lagoas, instagram @vini.barbosa.ribeiro.
     </p>
   </div>
 </body>
+
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?viniciusorig=VINICIUSORIG&layout=compact)](https://github.com/viniciusorig/github-readme-stats)
+  
+</div>
 
 <div>
 
